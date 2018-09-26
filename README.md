@@ -1,10 +1,10 @@
-# apts price prediction   
-This is used to predict current apts price
+# Apts value(price) prediction   
+This is used to predict current apts price. 
 
 # how to use it?   
-in apts page, add "predicted price". in zillow, called "home value"  "https://www.zillow.com/homedetails/12-E-69th-St-New-York-NY-10021/31533674_zpid/"
+In apts page, add "predicted price". In zillow, called [home value](https://www.zillow.com/homedetails/12-E-69th-St-New-York-NY-10021/31533674_zpid/)
 
-more work in future, predict "LAST 30 DAY CHANGE", "ONE YEAR FORECAST". 
+More work in future, predict "LAST 30 DAY CHANGE", "ONE YEAR FORECAST". 
 
 
 
