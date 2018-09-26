@@ -10,7 +10,7 @@ More work in future, predict "LAST 30 DAY CHANGE", "ONE YEAR FORECAST".
 
 ## model analysis
 [accuracy R2](http://statisticsbyjim.com/regression/interpret-r-squared-regression/) of linear regression, random forest, graduate boost are presented.     
-This is just demo for 451 samples. need more work to improve algorithim. random forest, graduate boost performces much better, either will be selected.
+This is just demo for 451 samples. need more work to improve algorithim. In experiment, random forest, graduate boost performces much better, either will be selected.
 
 
 ### Gradient Boosting regression
