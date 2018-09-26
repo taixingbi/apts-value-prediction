@@ -14,16 +14,15 @@ This is just demo for 451 samples. need more work to improve algorithim. random 
 
 
 ### Gradient Boosting regression
-* Advantages   
+* Advantages     
 solve almost all objective function    
 
-* Disadvantages     
+* Disadvantages       
 1. more sensitive to overfitting if the data is noisy. Training generally takes longer because of the fact that trees are built sequentially.     
 2. It is harder to tune than RF. There are typically three parameters: number of trees, depth of trees and learning rate, and the each tree built is generally shallow.   
 
 ### Random foerst
-* Advantages
-The Random Forests algorithm is one of the best among classification algorithms - able to classify large amounts of data with accuracy.
+* Advantages     
 
 1. make model more simple to interpret.     
 2. reduce the variance of the model, and therefore overfitting.    
